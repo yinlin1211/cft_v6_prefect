@@ -611,7 +611,7 @@ def main():
             'COn_f1': con_f1,
             'COnP_f1': conp_f1,
             'COnPOff_f1': conpoff_f1,
-            'best_conp_f1': best_conp_f1,
+            'best_val_loss': best_val_loss,
             'best_onset_thresh': best_onset_thresh,
             'best_frame_thresh': best_frame_thresh,
             'config': config
